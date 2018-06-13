@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "TrainDriving/traindrivinggames",
+    "description": "train driving games online Framework.",
+    "keywords": ["framework", "train driving games"],
     "license": "MIT",
     "type": "project",
     "require": {
